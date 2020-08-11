@@ -29,7 +29,7 @@ style
 .option
 {
     padding: 20px;
-    font-size: 22px;
+    font-size: 17px;
     background-color: gray;
     border: 2px solid red;
 
@@ -124,6 +124,19 @@ style
 .in:hover
 {
     background-color: #ee3400;
+    cursor: pointer;
+}
+.git
+{
+    height:90px;
+    width: 90px;
+    float: left;
+    background-color: white;
+    margin: 5px;
+}
+.git:hover
+{
+    background-color: #999999;
     cursor: pointer;
 }
 a.tilelink

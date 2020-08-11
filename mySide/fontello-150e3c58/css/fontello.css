@@ -56,10 +56,10 @@
 }
  
 .icon-mail:before { content: '\e800'; } /* '' */
-.icon-briefcase:before { content: '\e801'; } /* '' */
-.icon-instagram:before { content: '\f05d'; font-size: 50px; margin: 20px; color: white; } /* '' */
-.icon-mail-alt:before { content: '\f0e0'; } /* '' */
-.icon-youtube:before { content: '\f167';font-size: 50px;margin: 20px;color: white;} /* '' */
-.icon-graduation-cap:before { content: '\f19d'; } /* '' */
-.icon-facebook:before { content: '\f30c';font-size: 50px;margin: 20px;color: white; } /* '' */
-.icon-linkedin:before { content: '\f318';font-size: 50px;margin: 20px; color: white;} /* '' */
+.icon-briefcase:before { content: '\e801'; font-size: 25px; color: white; } /* '' */
+.icon-instagram:before { content: '\f05d'; font-size: 65px; margin-top: 12px;color: white; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; font-size: 25px; color: white; } /* '' */
+.icon-youtube:before { content: '\f167';font-size: 65px; margin-top: 12px;color: white;} /* '' */
+.icon-graduation-cap:before { content: '\f19d';font-size: 25px; color: white; } /* '' */
+.icon-facebook:before { content: '\f30c';font-size: 65px; margin-top: 12px;color: white; } /* '' */
+.icon-linkedin:before { content: '\f318';font-size: 65px; margin-top: 12px;color: white;} /* '' */
