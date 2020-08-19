@@ -32,13 +32,12 @@ style
     padding: 20px;
     font-size: 17px;
     background-color: gray;
-    border: 2px solid red;
 
     margin-bottom: 10px;
 }
 .option:hover
 {
-    background-color: green;
+    background-color: #222222;
     cursor: pointer;
 }
 #content
