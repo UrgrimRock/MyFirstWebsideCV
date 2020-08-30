@@ -63,6 +63,6 @@
 .icon-youtube:before { content: '\e808';font-size: 65px; margin-top: 12px; color: white; } /* '' */
 .icon-college:before { content: '\e810'; font-size: 20px; color: white;} /* '' */
 .icon-facebook:before { content: '\f09a';font-size: 65px; margin-top: 12px; color: white; } /* '' */
-.icon-github-circled:before { content: '\f09b';font-size: 65px; margin-top: 12px; color: black; } /* '' */
+.icon-github-circled:before { content: '\f09b';font-size: 90px;  margin-left: 50px; color: black; } /* '' */
 .icon-linkedin:before { content: '\f0e1';font-size: 65px; margin-top: 12px; color: white; } /* '' */
 .icon-instagram:before { content: '\f16d';font-size: 65px; margin-top: 12px; color: white; } /* '' */
